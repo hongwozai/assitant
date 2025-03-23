@@ -1,0 +1,10 @@
+[
+  {
+    "name": "test_tools",
+    "command": "uv",
+    "args": [
+      "run", "--with", "mcp",
+      "mcp", "run", "test_tool_server.py"
+    ]
+  }
+]
